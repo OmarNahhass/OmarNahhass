@@ -1,10 +1,8 @@
-- 👋 What's good?I am @OmarNahhass
-- 👀 I’m interested in computer
-- 🌱 I’m currently learning computer
-- 💞️ I’m looking to collaborate on computer
-- 📫 How to reach me computer
-- 😄 Pronouns: comp/uter
-- ⚡ Fun fact: computer!
+## How to Reach Me 📫
+
+- Email: omarnahhas@hotmail.ca
+- LinkedIn: https://www.linkedin.com/in/omar-nahhas-840876262/
+- Personal Website: (Releasing in March) 
 
 <!---
 OmarNahhass/OmarNahhass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
