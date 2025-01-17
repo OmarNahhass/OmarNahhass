@@ -1,8 +1,6 @@
 <h1 align="center">Hey! I'm Omar</h1>
 <h3 align="center">Free Palestine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarnahhass&label=Profile%20views&color=0e75b6&style=flat" alt="omarnahhass" /> </p>
-
 - 🔭 I’m currently working on **ML Crypto Predictions**
 
 - 🌱 I’m currently learning **C++**
