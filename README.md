@@ -1,9 +1,7 @@
-<h1 align="center">Hey I'm Omar</h1>
-<h3 align="center">Learning...</h3>
+<h1 align="center">Hey! I'm Omar</h1>
+<h3 align="center">Free Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarnahhass&label=Profile%20views&color=0e75b6&style=flat" alt="omarnahhass" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarnahhass" alt="omarnahhass" /></a> </p>
 
 - 🔭 I’m currently working on **ML Crypto Predictions**
 
