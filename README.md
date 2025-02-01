@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Omar</h1>
-<h3 align="center">Free Palestine</h3>
+<h3 align="center">CS RULES</h3>
 
 - 🔭 I’m currently working on **ML Crypto Predictions**
 
